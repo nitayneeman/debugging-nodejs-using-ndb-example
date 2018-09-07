@@ -1,0 +1,10 @@
+{
+  "name": "debugging-nodejs-using-ndb-example",
+  "version": "0.0.0",
+  "description": "description",
+  "author": "Nitay Neeman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
