@@ -4,6 +4,9 @@
   "description": "description",
   "author": "Nitay Neeman",
   "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
   "dependencies": {
     "express": "^4.16.3"
   }
